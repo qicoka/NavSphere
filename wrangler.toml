@@ -8,6 +8,6 @@ GITHUB_CLIENT_ID = "Ov23li2aSOrV7kHXCgJq"
 GITHUB_OWNER = "qicoka"
 GITHUB_REPO = "NavSphere"
 GITHUB_BRANCH = "main"
-NEXTAUTH_URL = "https://yang-nav.pages.dev/api/auth"
+NEXTAUTH_URL = "https://yang-nav.pages.dev/"
 NEXT_PUBLIC_API_URL="https://yang-nav.pages.dev/"
 
