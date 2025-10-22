@@ -1307,6 +1307,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1761112105902",
+      "title": "学习",
+      "icon": "FolderKanban",
+      "description": "小学 初中 高中 工具",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
