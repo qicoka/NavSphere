@@ -1314,7 +1314,16 @@
       "icon": "FolderKanban",
       "description": "小学 初中 高中 工具",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "1761112121644",
+          "title": "Basic",
+          "href": "https://basic.smartedu.cn/",
+          "description": "访问 basic.smartedu.cn",
+          "icon": "/assets/favicon_1761112140167.png",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     }
   ]
